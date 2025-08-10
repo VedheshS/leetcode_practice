@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/VedheshS/leetcode_practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/VedheshS/leetcode_practice/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
