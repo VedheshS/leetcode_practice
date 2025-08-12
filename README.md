@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VedheshS/leetcode_practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0547-number-of-provinces](https://github.com/VedheshS/leetcode_practice/tree/master/0547-number-of-provinces) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/VedheshS/leetcode_practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/VedheshS/leetcode_practice/tree/master/0547-number-of-provinces) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/VedheshS/leetcode_practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -45,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/VedheshS/leetcode_practice/tree/master/0338-counting-bits) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/VedheshS/leetcode_practice/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/VedheshS/leetcode_practice/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
