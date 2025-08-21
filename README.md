@@ -94,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VedheshS/leetcode_practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/VedheshS/leetcode_practice/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
