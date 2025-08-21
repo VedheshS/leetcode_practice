@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VedheshS/leetcode_practice/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/VedheshS/leetcode_practice/tree/master/0055-jump-game) |
+| [0289-game-of-life](https://github.com/VedheshS/leetcode_practice/tree/master/0289-game-of-life) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VedheshS/leetcode_practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VedheshS/leetcode_practice/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/VedheshS/leetcode_practice/tree/master/0289-game-of-life) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VedheshS/leetcode_practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Math
 |  |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/VedheshS/leetcode_practice/tree/master/0177-nth-highest-salary) |
 | [0608-tree-node](https://github.com/VedheshS/leetcode_practice/tree/master/0608-tree-node) |
 | [1734-bank-account-summary-ii](https://github.com/VedheshS/leetcode_practice/tree/master/1734-bank-account-summary-ii) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/VedheshS/leetcode_practice/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
