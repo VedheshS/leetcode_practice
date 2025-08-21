@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VedheshS/leetcode_practice/tree/master/0001-two-sum) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/VedheshS/leetcode_practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/VedheshS/leetcode_practice/tree/master/0338-counting-bits) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/VedheshS/leetcode_practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VedheshS/leetcode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/VedheshS/leetcode_practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
