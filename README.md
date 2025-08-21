@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/VedheshS/leetcode_practice/tree/master/0295-find-median-from-data-stream) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/VedheshS/leetcode_practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Database
 |  |
@@ -106,4 +107,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/VedheshS/leetcode_practice/tree/master/0289-game-of-life) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/VedheshS/leetcode_practice/tree/master/0295-find-median-from-data-stream) |
+## Sorting
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/VedheshS/leetcode_practice/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/VedheshS/leetcode_practice/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/VedheshS/leetcode_practice/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
