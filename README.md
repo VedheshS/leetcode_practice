@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/VedheshS/leetcode_practice/tree/master/0289-game-of-life) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VedheshS/leetcode_practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VedheshS/leetcode_practice/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/VedheshS/leetcode_practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VedheshS/leetcode_practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Hash Table
 |  |
