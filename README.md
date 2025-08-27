@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/VedheshS/leetcode_practice/tree/master/0055-jump-game) |
 | [0289-game-of-life](https://github.com/VedheshS/leetcode_practice/tree/master/0289-game-of-life) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VedheshS/leetcode_practice/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VedheshS/leetcode_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VedheshS/leetcode_practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/VedheshS/leetcode_practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VedheshS/leetcode_practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/VedheshS/leetcode_practice/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/VedheshS/leetcode_practice/tree/master/0338-counting-bits) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VedheshS/leetcode_practice/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VedheshS/leetcode_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/VedheshS/leetcode_practice/tree/master/0295-find-median-from-data-stream) |
+## Sliding Window
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VedheshS/leetcode_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
