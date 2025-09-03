@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VedheshS/leetcode_practice/tree/master/0001-two-sum) |
+| [0051-n-queens](https://github.com/VedheshS/leetcode_practice/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/VedheshS/leetcode_practice/tree/master/0055-jump-game) |
 | [0289-game-of-life](https://github.com/VedheshS/leetcode_practice/tree/master/0289-game-of-life) |
 | [1036-rotting-oranges](https://github.com/VedheshS/leetcode_practice/tree/master/1036-rotting-oranges) |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VedheshS/leetcode_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/VedheshS/leetcode_practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
