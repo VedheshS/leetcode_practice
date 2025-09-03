@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/VedheshS/leetcode_practice/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/VedheshS/leetcode_practice/tree/master/0055-jump-game) |
 | [0289-game-of-life](https://github.com/VedheshS/leetcode_practice/tree/master/0289-game-of-life) |
+| [0542-01-matrix](https://github.com/VedheshS/leetcode_practice/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/VedheshS/leetcode_practice/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VedheshS/leetcode_practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VedheshS/leetcode_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/VedheshS/leetcode_practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/VedheshS/leetcode_practice/tree/master/0112-path-sum) |
+| [0542-01-matrix](https://github.com/VedheshS/leetcode_practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/VedheshS/leetcode_practice/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/VedheshS/leetcode_practice/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/VedheshS/leetcode_practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/VedheshS/leetcode_practice/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/VedheshS/leetcode_practice/tree/master/0338-counting-bits) |
+| [0542-01-matrix](https://github.com/VedheshS/leetcode_practice/tree/master/0542-01-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VedheshS/leetcode_practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VedheshS/leetcode_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bit Manipulation
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/VedheshS/leetcode_practice/tree/master/0289-game-of-life) |
+| [0542-01-matrix](https://github.com/VedheshS/leetcode_practice/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/VedheshS/leetcode_practice/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VedheshS/leetcode_practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VedheshS/leetcode_practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
