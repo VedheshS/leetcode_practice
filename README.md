@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VedheshS/leetcode_practice/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3830-find-closest-person](https://github.com/VedheshS/leetcode_practice/tree/master/3830-find-closest-person) |
 ## Greedy
 |  |
 | ------- |
