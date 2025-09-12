@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VedheshS/leetcode_practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/VedheshS/leetcode_practice/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VedheshS/leetcode_practice/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3462-vowels-game-in-a-string](https://github.com/VedheshS/leetcode_practice/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/VedheshS/leetcode_practice/tree/master/3830-find-closest-person) |
 ## Greedy
 |  |
@@ -151,4 +152,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/VedheshS/leetcode_practice/tree/master/0051-n-queens) |
+## String
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/VedheshS/leetcode_practice/tree/master/3462-vowels-game-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/VedheshS/leetcode_practice/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/VedheshS/leetcode_practice/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
